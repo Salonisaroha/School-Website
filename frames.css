@@ -1,0 +1,215 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    
+    background-color: lightgray;
+    
+    background-repeat: no-repeat;
+    
+    
+}
+a{
+    text-decoration: none;
+}
+
+#h1{
+    padding:20px;
+    background-color: khaki;
+    border-radius:10px ;
+    box-shadow:2px 2px black ;
+}
+.container{
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+.menu{
+    font-size:20px ;
+    color:black;
+}
+.content{
+    text-align: center;
+
+}
+#start_line{
+    color:red;
+    font-size: 20px;
+    margin-top: 80px;
+    line-height:20px ;
+
+}
+#main_line{
+    line-height:20px ;
+    margin-top: 30px;
+    cursor:pointer;
+    text-decoration: double;
+    text-shadow: 4px 4px 4px 4px white;
+
+}
+#btn{
+    font-size:20px ;
+    width:150px;
+    margin-top:30px ;
+    margin-bottom: 20px;
+    border-radius:10px ;
+    background-color: red;
+    padding:10px;
+    border-width:2px ;
+    box-shadow:3px 3px 3px 3px black ;
+}
+#btn:hover{
+    color:burlywood;
+    cursor:pointer;
+}
+.container11{
+    display:flex;
+    justify-content: space-evenly;
+    background-color:white;
+    border:solid black ;
+}
+.maincontainer{
+    display: flex;
+}
+#logo{
+    
+    border-radius:70%;
+    border-color:yellow ;
+    box-shadow:3px 3px 3px 3px black ;
+    
+}
+#school_heading{
+    margin-top:30px ;
+    color:red;
+    font-size:40px ;
+    text-decoration: double;
+}
+#school_heading:hover{
+    color:blue;
+}
+#school_heading2{
+    margin-top: 35px;
+    font-size:20px ;
+}
+#heading3{
+    margin-top:35px ;
+    font-size:20px ;
+}
+.tagline{
+    font-size:20px ;
+    background-color:#150A46 ;
+    color:white;
+    padding:15px;
+}
+.tagline:hover{
+    color: darkorange;
+}
+.box1{
+    width:500px;
+    height:550px;
+    background-color:#0F0347;
+    margin-top:15px ;
+    margin-left:15px ;
+    color: white;
+    font-size:20px ;
+    border-radius:10px ;
+}
+#bright_future{
+    padding:20px ;
+    font-size:25px ;
+    text-align: center;
+    margin-bottom:7px ;
+    
+}
+#steps{
+    margin-left:30px ;
+    margin-top: 10px;
+    font-size:25px ;
+
+}
+.required_lines{
+    margin-top:7px ;
+    margin-left:30px;
+    line-height:35px ;
+}
+ .button1{
+    margin-top:10px ;
+    margin-left:180px ;
+    padding:8px;
+    background-color:darkorange ;
+    transform: scaleX(2);
+ }
+ .box2{
+    width:500px;
+    height:550px;
+    background-color:white ;
+    margin-top:15px ;
+    margin-left:15px ;
+    border-radius:10px ;
+    
+    
+}
+ #registered_candidate{
+    text-align: center;
+    margin-top:20px ;
+    
+ }
+.required_inputs{
+    
+    margin-top:10px ;
+   margin-left:25px;
+   line-height:50px;
+} 
+#case_sensitive{
+    color:red ;
+    font-size:10px ;
+}
+.header{
+    width:70%;
+    margin-right:8px ;
+}
+.number1{
+    width:70%;
+     
+}
+.date_of_birth{
+    width:70%;
+}
+.security_pin{
+    width:50%;
+}
+.captcha{
+    width:70%;
+}
+.sign_in{
+    margin-top:10px ;
+    margin-left:170px ;
+    margin-bottom:20px ;
+    padding:10px;
+    width:30%;
+    background-color:darkorange ;
+    border-radius: 5px;
+}
+.forgot{
+    display:flex;
+    margin-top:20px ;
+    justify-content:space-evenly ;
+    color:red;
+}
+.box3{
+    width:480px;
+    height:550px;
+    border-radius: 10px;
+    background-color:#0F0347;
+    margin-top:15px ;
+    margin-left:15px ;
+    color: white;
+    font-size:20px ;
+    
+}
+#sainik_school{
+    margin-top:15px ;
+    margin-left:60px ;
+    border-radius:8px ;
+}
